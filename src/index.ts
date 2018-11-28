@@ -1,0 +1,1 @@
+export const Index = (name: string) => `Hello ${name}`;
